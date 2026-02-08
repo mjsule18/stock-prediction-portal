@@ -1,6 +1,6 @@
 import React from 'react'
 
-const main = () => {
+const Main = () => {
   return (
     <>
       <div className='container'>
@@ -17,4 +17,4 @@ const main = () => {
   )
 }
 
-export default main
+export default Main;
